@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a first-year Statistics and Data Science major at the University of California, Los Angeles, planning to minor in Creative Writing. I graduated from Shorewood High School in 2025 and plan to finish my degree in four years.\nI’m interested in the real-world implications of data in fields like environmental science, business practice, and the life sciences. The projects on this site reflect that. I’m hoping to find research or internship experience that combines quantitative work with real questions and actionable solutions.\nWhen I’m not studying, I’m usually triathlon training, rock climbing, hiking, reading, or playing guitar. I’m also very involved in Christian ministries at UCLA."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Breast Cancer Subtyping from Gene Expression\nR · limma-voom · ggplot2\nAn analysis of ~1,200 TCGA breast cancer RNA-seq samples reproducing the established four-subtype molecular classification, then extended to test whether long non-coding RNAs recover the same structure as protein-coding genes.\nView on GitHub →\n\n\nUrban Coyotes in California\nR · sf · Quarto\nAn exploratory analysis of ~24,000 GBIF wildlife observation records, examining urban vs. non-urban coyote sightings across geography, time, and season — with attention to the limits of citizen-science data.\nView on GitHub →\n\n\nAir Quality Trends in Los Angeles in progress\nR · dplyr · EPA AQS data\nAn analysis of EPA monitoring data examining PM2.5 trends across Los Angeles over time and space. Currently in development."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to connecting about research, projects, or collaboration. The best way to reach me is by email.\n\nEmail: benirish25@g.ucla.edu\nGitHub: github.com/benirish-data"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ben Irish",
+    "section": "",
+    "text": "Ben Irish\nStatistics & Data Science · UCLA\nI work with real-world data in the life and environmental sciences — finding it, cleaning it, and figuring out what it actually supports.\nView Projects Email Me"
+  }
+]

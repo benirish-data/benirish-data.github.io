@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+[Download PDF](resume.pdf){.btn .btn-primary download="Ben_Irish_Resume.pdf"}
+
+<iframe src="resume.pdf" width="100%" height="900px" style="border: 1px solid #ddd; margin-top: 1rem;"></iframe>

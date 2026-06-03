@@ -1,0 +1,13 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+# Ben Irish
+[Statistics & Data Science · UCLA]{.tagline}
+
+I work with real-world data in the life and environmental sciences — finding it, cleaning it, and figuring out what it actually supports.
+
+[View Projects](projects.qmd){.btn style="background-color: var(--accent); color: white; border-radius: 3px; padding: 0.55rem 1.3rem; display: inline-block; vertical-align: middle; border: 1px solid var(--accent);"} [Email Me](mailto:benirish25@g.ucla.edu){.btn style="background-color: transparent; color: var(--accent); border-radius: 3px; padding: 0.55rem 1.3rem; display: inline-block; vertical-align: middle; border: 1px solid var(--accent);"}
+:::

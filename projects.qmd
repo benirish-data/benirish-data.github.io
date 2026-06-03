@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+::: {.project-card}
+### Breast Cancer Subtyping from Gene Expression
+[R · limma-voom · ggplot2]{.tools}
+
+An analysis of ~1,200 TCGA breast cancer RNA-seq samples reproducing the established four-subtype molecular classification, then extended to test whether long non-coding RNAs recover the same structure as protein-coding genes.
+
+[View on GitHub →](https://github.com/benirish-data/tcga-expression-analysis){.repo-link}
+:::
+
+::: {.project-card}
+### Urban Coyotes in California
+[R · sf · Quarto]{.tools}
+
+An exploratory analysis of ~24,000 GBIF wildlife observation records, examining urban vs. non-urban coyote sightings across geography, time, and season — with attention to the limits of citizen-science data.
+
+[View on GitHub →](https://github.com/benirish-data/ca-urban-coyotes){.repo-link}
+:::
+
+::: {.project-card}
+### Air Quality Trends in Los Angeles [in progress]{.in-progress}
+[R · dplyr · EPA AQS data]{.tools}
+
+An analysis of EPA monitoring data examining PM2.5 trends across Los Angeles over time and space. Currently in development.
+:::

@@ -3,6 +3,15 @@ title: "Projects"
 ---
 
 ::: {.project-card}
+### Lyon and McAleer Creek Water Quality
+[R · Quarto · King County & NOAA data]{.tools}
+
+An analysis of 30+ years of King County monitoring data for two urban creeks feeding Lake Washington, covering summer temperature, dissolved oxygen, and storm-driven copper. Summer temperatures step upward after 2013, dissolved oxygen declines on a separate and longer timeline, and storm copper rises with rainfall once samples are joined to NOAA precipitation records. Built for the Lake Forest Park Stewardship Foundation's Streamkeepers, with a public log of analysis decisions.
+
+[Read the report →](https://benirish-data.github.io/lyon-mcaleer-metals/){.repo-link} [View on GitHub →](https://github.com/benirish-data/lyon-mcaleer-metals){.repo-link}
+:::
+
+::: {.project-card}
 ### Breast Cancer Subtyping from Gene Expression
 [R · limma-voom · ggplot2]{.tools}
 

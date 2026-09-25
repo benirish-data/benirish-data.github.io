@@ -12,7 +12,7 @@ An analysis of 30+ years of King County monitoring data for two urban creeks fee
 :::
 
 ::: {.project-card}
-### Breast Cancer Subtyping from Gene Expression
+### Breast Cancer Subtyping from Gene Expression (in progress)
 [R · limma-voom · ggplot2]{.tools}
 
 An analysis of ~1,200 TCGA breast cancer RNA-seq samples reproducing the established four-subtype molecular classification, then extended to test whether long non-coding RNAs recover the same structure as protein-coding genes.
@@ -26,7 +26,7 @@ An analysis of ~1,200 TCGA breast cancer RNA-seq samples reproducing the establi
 
 An exploratory analysis of ~24,000 GBIF wildlife observation records, examining urban vs. non-urban coyote sightings across geography, time, and season — with attention to the limits of citizen-science data.
 
-[View on GitHub →](https://github.com/benirish-data/ca-urban-coyotes){.repo-link}
+[Read the report →](https://benirish-data.github.io/ca-urban-coyotes/){.repo-link} [View on GitHub →](https://github.com/benirish-data/ca-urban-coyotes){.repo-link}
 :::
 
 ::: {.project-card}

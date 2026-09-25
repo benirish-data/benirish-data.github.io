@@ -22,12 +22,6 @@ An exploratory analysis of ~24,000 GBIF wildlife observation records, examining 
 :::
 
 ::: {.project-card}
-### Air Quality Trends in Los Angeles [in progress]{.in-progress} {#air-quality}
-
-An analysis of EPA monitoring data examining PM2.5 trends across Los Angeles over time and space. Currently in development.
-:::
-
-::: {.project-card}
 ### Breast Cancer Subtyping from Gene Expression [in progress]{.in-progress} {#tcga}
 
 An analysis of ~1,200 TCGA breast cancer RNA-seq samples reproducing the established four-subtype molecular classification, then extended to test whether long non-coding RNAs recover the same structure as protein-coding genes.

@@ -16,7 +16,7 @@ An analysis of 30+ years of King County monitoring data for two urban creeks fee
 ### Urban Coyotes in California
 [R · sf · Quarto]{.tools}
 
-An exploratory analysis of ~24,000 GBIF wildlife observation records, examining urban vs. non-urban coyote sightings across geography, time, and season, with attention to the limits of citizen-science data.
+An exploratory analysis of ~24,000 GBIF wildlife observation records, examining urban vs. non-urban coyote sightings across geography, time, and season (with attention to the limits of citizen-science data).
 
 [Read the report →](https://benirish-data.github.io/ca-urban-coyotes/){.repo-link} [View on GitHub →](https://github.com/benirish-data/ca-urban-coyotes){.repo-link}
 :::
